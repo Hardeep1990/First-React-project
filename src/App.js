@@ -12,6 +12,8 @@ function App() {
     <Footer></Footer>
 
     <Person name="Hardeep" age={25}></Person>
+    <Person name="deep" age={25}></Person>
+    <Person name="john" age={25}></Person>
 
   </>
 
